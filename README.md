@@ -29,8 +29,4 @@ The game is fully responsive, adapting seamlessly to desktop, tablet, and mobile
 
 ## Live Preview
 
-[Live Demo](https://vanvalera.github.io/react-phone-catalog/)
-
-## Design Mockup
-
-[View Mockup](<https://www.figma.com/design/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?node-id=0-1&node-type=canvas&t=fXVzrVY44or1GdW9-0>)
+[Live Demo](https://vanvalera.github.io/js-2048-game/)
